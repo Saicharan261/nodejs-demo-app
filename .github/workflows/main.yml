@@ -34,5 +34,5 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker tag my-node-app ${{ secrets.Saicharan261 }}/my-node-app:latest
-        docker push ${{ secrets.Saicharan261 }}/my-node-app:latest
+        docker tag my-node-app ${{ secrets.saicharan9008 }}/my-node-app:latest
+        docker push ${{ secrets.saicharan9008 }}/my-node-app:latest
