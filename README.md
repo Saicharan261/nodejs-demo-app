@@ -18,7 +18,7 @@ This project is a simple Node.js demo application for Task 1 of the ElevateLabs 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/nodejs-demo-app.git
+git clone https://github.com/Saicharan261/nodejs-demo-app.git
 cd nodejs-demo-app
 npm install
 ```
